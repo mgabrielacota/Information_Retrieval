@@ -3,5 +3,5 @@ Uma text-based search engine (em nível de prova de conceito) com os objetivos d
 
 Dado uma plataforma de busca de produtos 
 
-1) ajudar o usuario a encontrar um produto desejado;  
-2) descobrir novos itens que surpreendam os usuarios
+1) ajudar o usuario a encontrar os produtos desejados;  
+2) ajudar o usuario a descobrir novos itens que o surpreenda
